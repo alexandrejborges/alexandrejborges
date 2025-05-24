@@ -8,7 +8,7 @@ PhD candidate to Biotechonology at [University of São Paulo.](https://www5.usp.
 I'm currently working at the [Synthetic and Systems Biology Center](https://inova.usp.br/iniciativas/s2b/), applying machine learning to understand the complexity of biological systems and generate insights that can benefit society.   
 
 Here are some research projects I was involved in:  
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Alexandre-Araujo-11?ev=hdr_xprf)
 
 ## Hard Skill set 💪
 **Programming Languages**  
