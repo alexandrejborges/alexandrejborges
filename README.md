@@ -1,7 +1,7 @@
 <img src="My_banner.png" alt="My banner" width="1000"/>
 
 # Hi there, I'm Alexandre J. Borges 👋
-I hold a degree in Biology from the [Federal University of Uberlândia.](https://ufu.br)  
+I have a degree in Biology from [Federal University of Uberlândia.](https://ufu.br)  
 MBA candidate in Data Science and Analytics at [University of São Paulo.](https://www5.usp.br)  
 PhD candidate to Biotechonology at [University of São Paulo.](https://www5.usp.br)
 
