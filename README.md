@@ -3,7 +3,7 @@
 # Hi there, I'm Alexandre J. Borges 👋
 I have a degree in Biology from [Federal University of Uberlândia.](https://ufu.br)  
 MBA candidate in Data Science and Analytics at [University of São Paulo.](https://www5.usp.br)  
-PhD candidate to Biotechonology at [University of São Paulo.](https://www5.usp.br)
+PhD candidate to Biotechnology at [University of São Paulo.](https://www5.usp.br)
 
 I'm currently working at the [Synthetic and Systems Biology Center](https://inova.usp.br/iniciativas/s2b/), applying machine learning to understand the complexity of biological systems and generate insights that can benefit society.   
 
