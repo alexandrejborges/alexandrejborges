@@ -2,10 +2,10 @@
 
 # Hi there, I'm Alexandre J. Borges 👋
 I have a degree in Biology from [Federal University of Uberlândia.](https://ufu.br)  
-MBA in Data Science and Analytics at [University of São Paulo.](https://www5.usp.br)  
-PhD candidate to Biotechnology at [University of São Paulo.](https://www5.usp.br)
+MBA in Data Science and Analytics and a Master’s degree in Biotechnology at the [University of São Paulo.](https://www5.usp.br)  
+PhD candidate to Biotechnology at the [University of São Paulo.](https://www5.usp.br)
 
-I'm currently working at the [Synthetic and Systems Biology Center](https://inova.usp.br/iniciativas/s2b/), applying machine learning to understand the complexity of biological systems and generate insights that can benefit society.   
+I'm currently applying statistical analysis and machine learning to develop predictive models that generate valuable insights and drive business growth.   
 
 Here are some research projects I was involved in:  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Alexandre-Araujo-11?ev=hdr_xprf)
