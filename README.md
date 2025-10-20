@@ -1,4 +1,4 @@
-<img src="My_banner.png" alt="My banner" width="1000"/>
+<img src="My_banner_1.png" alt="My banner" width="1000"/>
 
 # Hi there, I'm Alexandre J. Borges 👋
 I have a degree in Biology from [Federal University of Uberlândia.](https://ufu.br)  
