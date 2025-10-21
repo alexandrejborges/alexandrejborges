@@ -5,7 +5,8 @@ I have a degree in Biology from [Federal University of Uberlândia.](https://ufu
 MBA in Data Science and Analytics and a Master’s degree in Biotechnology at the [University of São Paulo.](https://www5.usp.br)  
 PhD candidate to Biotechnology at the [University of São Paulo.](https://www5.usp.br)
 
-I'm currently applying statistical analysis and machine learning to develop predictive models that generate valuable insights and drive business growth.   
+I'm currently applying statistical analysis and machine learning to develop predictive models that generate valuable insights and drive business growth.
+Specifically, I'm working on projects focused on churn prediction, call event forecasting, and predictive product price valuation within the telecom sector.
 
 Here are some research projects I was involved in:  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Alexandre-Araujo-11?ev=hdr_xprf)
